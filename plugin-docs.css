@@ -1,0 +1,7 @@
+.plugin_docs,
+.plugin_docs textarea {
+	width: 100%;
+}
+.plugin_docs div {
+	text-align: right;
+}
